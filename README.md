@@ -23,5 +23,5 @@
 <h3 align="center">Check the website here</h3> 
 
 <p align="center">
-  <a href="https://github.com/valssiria/Easy-Shopping/">https://github.com/valssiria/Easy-Shopping-Responsivo/</a>
+  <a href="https://github.com/valssiria/Easy-Shopping/">https://github.com/valssiria/Easy-Shopping-Responsivo</a>
 </p>
