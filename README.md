@@ -1,4 +1,4 @@
-# Easy-Shopping-Responsivo
+<h1 align="center"> Easy-Shopping-Responsivo </h1>
 
 
 <h1 align="center">
